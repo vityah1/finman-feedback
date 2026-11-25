@@ -2,7 +2,7 @@
 
 **FinMan** is a smart personal finance app for individuals, families, and landlords.
 
-🔗 **Try it free:** [finman.vhworx.com](https://finman.vhworx.com)
+🔗 **Try it free:** [finmanapp.com](https://finmanapp.com?utm_source=github)
 
 ---
 
