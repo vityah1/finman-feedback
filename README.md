@@ -33,6 +33,6 @@ No source code here — just transparent communication with users.
 
 ## Links
 
-- 🌐 App: [finman.vhworx.com](https://finman.vhworx.com)
+- 🌐 App: [finmanapp.com](https://finmanapp.com/?utm_source=github)
 - 🛠️ Developer: [github.com/vityah1](https://github.com/vityah1)
 - 💼 Studio: [vhworx.com](https://vhworx.com)
